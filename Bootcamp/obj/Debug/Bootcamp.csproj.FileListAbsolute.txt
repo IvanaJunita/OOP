@@ -1,0 +1,6 @@
+c:\users\8poin1\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\bin\Debug\Bootcamp.exe.config
+c:\users\8poin1\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\bin\Debug\Bootcamp.exe
+c:\users\8poin1\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\bin\Debug\Bootcamp.pdb
+c:\users\8poin1\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\obj\Debug\Bootcamp.csprojResolveAssemblyReference.cache
+c:\users\8poin1\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\obj\Debug\Bootcamp.exe
+c:\users\8poin1\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\obj\Debug\Bootcamp.pdb
